@@ -1,3 +1,3 @@
 # To-do-list
  
- ## Using java script, html and css
+ ## To do list using vanilla js, html and css
